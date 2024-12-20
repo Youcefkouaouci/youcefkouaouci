@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with cloud computing and DevOps practices.
 - 💬 Ask me about web development, Python, and machine learning.
-- 📫 How to reach me: youcef@example.com
+- 📫 How to reach me: youcefkouaouci@gmail.com
 - ⚡ Fun fact: I love playing chess and hiking.
 
 ## 🛠️ Technologies and Tools
@@ -25,6 +25,6 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youcefkouaouci)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youcef-kouaouci)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/youcefkouaouci)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:youcef@example.com)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:youcefkouaouci@gmail.com)
