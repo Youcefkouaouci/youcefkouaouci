@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Youcefkouaouci! 👋
 
-<!--
-**Youcefkouaouci/youcefkouaouci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning advanced algorithms and data structures.
+- 👯 I’m looking to collaborate on open-source projects.
+- 🤔 I’m looking for help with cloud computing and DevOps practices.
+- 💬 Ask me about web development, Python, and machine learning.
+- 📫 How to reach me: youcef@example.com
+- ⚡ Fun fact: I love playing chess and hiking.
+
+## 🛠️ Technologies and Tools
+
+- **Languages:** Python, JavaScript, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js
+- **Data Science:** Pandas, NumPy, Scikit-Learn, TensorFlow
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Kubernetes, Jenkins
+
+## 📈 GitHub Stats
+
+![Youcefkouaouci's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youcefkouaouci&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youcefkouaouci)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/youcefkouaouci)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:youcef@example.com)
