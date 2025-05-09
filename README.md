@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Youcef Kouaouci!
+# 👋 Hi, I'm Youcef KOUAOUCI
 
-Welcome to my GitHub profile! I'm a passionate **software developer** with a background in **architecture & energy efficiency**, now diving deep into **web development, AI, and decision-support tools**.
+Welcome to my GitHub profile. I'm a passionate **software developer** with a background in **architecture & energy efficiency**, now diving deep into **web development, AI, and decision-support tools**.
 
 🌟 Always eager to learn, contribute, and build innovative solutions!  
 
@@ -10,9 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **software developer** with a bac
 
 - 🌱 Currently learning **advanced algorithms & data structures**.  
 - 👯 Open to collaborating on **open-source projects**.  
-- 🤔 Exploring **cloud computing & DevOps**.  
-- 💬 Ask me about **web development, Python, and AI/ML**.  
-- ⚡ Fun fact: **I love playing chess & hiking**!  
+- 🤔 Exploring **Software development**.  
 
 📫 Reach me at **[youcefkouaouci@gmail.com](mailto:youcefkouaouci@gmail.com)**  
 
@@ -20,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate **software developer** with a bac
 
 ## 🛠️ Technologies & Tools  
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+**Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 
 **Web Development:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
 
@@ -30,17 +28,9 @@ Welcome to my GitHub profile! I'm a passionate **software developer** with a bac
 
 ---
 
-## 📊 GitHub Stats  
-
-![Youcef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youcefkouaouci&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youcefkouaouci&layout=compact&theme=dark)  
-
----
-
 ## 🔗 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youcef-kouaouci)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/youcefkouaouci)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youcef-kouaouci) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youcefkouaouci@gmail.com)  
 
 ---
