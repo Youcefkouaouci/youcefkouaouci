@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Youcef KOUAOUCI
 
-Former architect turned web developer, blending design thinking, energy efficiency, and tech.  
-I build meaningful digital tools with purpose, clarity, and impact.
+Former architect turned web developer, blending design thinking, energy efficiency, and tech. I build meaningful digital tools with purpose, clarity, and impact.
 
 ---
 
